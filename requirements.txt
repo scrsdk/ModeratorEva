@@ -1,0 +1,4 @@
+PyGithub
+aiogram
+hashlib
+pillow
